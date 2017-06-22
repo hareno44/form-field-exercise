@@ -1,0 +1,47 @@
+body{
+  background-color: seashell;
+}
+
+h1{
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+}
+
+label{
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+  display: inline-block;
+
+}
+form{
+  font-family: 'Raleway',sans-serif;
+}
+select{
+  background: url(http://i62.tinypic.com/2e3ybe1.jpg) no-repeat right center;
+  border: none;
+  border-bottom: 1px solid #000000;
+  font-family: 'Raleway', sans-serif;
+
+}
+input {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+
+}
+.line{
+  display: ;
+  margin: 2% 0;
+}
+.button{
+  padding: 12px 0;
+  width: 200px;
+  /*margin: 50%;*/
+  text-align: center;
+  background-color: turquoise;/*rgba(255,255,0,1);*/
+  border-radius: 5px;
+  font-family: 'Abril Fatface',sans-serif;
+  font-weight: 600;
+}
